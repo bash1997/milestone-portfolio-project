@@ -1,0 +1,190 @@
+body {
+  font-family: 'Alegreya Sans', sans-serif;
+  background-color: #1C1E26;
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+h1, nav ul li strong{
+  font-family: 'Alegreya SC', serif;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+p {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+#header {
+  height: 600px;
+}
+
+#work {
+  height: 1470px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+
+#about {
+  height: 550px;
+}
+
+#contact {
+  height: 400px;
+  clear: both;
+}
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 500px;
+  float: left;
+}
+
+.third-width {
+  width: 400px;
+  float: left;
+}
+
+.image {
+  height: 550px;
+  width: 1200px;
+}
+
+header {
+  margin: 0 20px;
+}
+
+nav {
+  height: auto;
+}
+
+li strong {
+  font-size: 32px;
+  padding-right: 500px;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  font-size: 18px;
+  color: inherit;
+  padding-left: 29px;
+}
+#work h2 {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px 0;
+}
+.preview-one, .preview-two, .preview-three {
+  width: 1200px;
+  height: 410px;
+  font-size: 27px;
+  padding: 20px 0;
+  clear: both;
+}
+
+.preview-one img, .preview-three img {
+  width: 550px;
+  height: auto;
+  float: left;
+  padding-right: 50px;
+}
+
+.preview-two_info {
+  width: 550px;
+  height: auto;
+  float: left;
+  text-align: right;
+}
+
+.preview-two img {
+  width: 550px;
+  height: auto;
+  padding-left: 50px;
+}
+
+ .preview-three img{
+   margin-bottom: 40px;
+ }
+
+ #about {
+   background-image: url('../img/tim-arterbury-vkwrmha1_tI-unsplash.jpg');
+   background-size: cover;
+   text-align: center;
+   clear: both;
+   margin: 0 30px;
+ }
+
+ .about img {
+   clear: both;
+ }
+
+ #about .half-width {
+   float: right;
+   color: #F20587;
+   font-size: 18px;
+   margin: 75px 0 75px 120px;
+   padding: 35px 50px 0 30px;
+ }
+
+ #about h3 {
+   text-align: left;
+   padding-right: 40px;
+   padding-left: 135px;
+   margin-left: 0;
+   margin-bottom: 0;
+ }
+
+ #about p {
+   width: 300px;
+   padding: 35px;
+   padding-bottom: 0;
+   line-height: 25px;
+   margin-top: 0;
+ }
+
+ #contact h3 {
+   text-align: center;
+   font-size: 32px;
+   margin-top: 0;
+ }
+
+ #contact h4 {
+   text-align: center;
+   font-size: 18px;
+   color: #F20587;
+ }
+
+ #box-one, #box-two, #box-three {
+   text-align: center;
+ }
+
+ #contact a {
+   text-decoration: none;
+   color: #F20587;
+ }
+
+ #box-two ul li {
+   display: inline;
+   padding: 0 20px;
+ }
+
+ #contact ul li {
+   list-style-type: none;
+ }
+
+ #box-one h4, #box-three h4 {
+   padding-left: 30px;
+ }
+
+footer {
+  clear: both;
+  text-align: center;
+}
